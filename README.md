@@ -17,8 +17,7 @@
 ### About Me
 I'm a software engineer experienced in full stack web development and data analysis with an affinity for learning new technology and methods to tackle complex challenges.
 
----
-### Languages
+#### Languages
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java" title="Java"/>
     <img  src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg" height="40" width="40" alt="Python" title="Python"/>
@@ -30,7 +29,7 @@ I'm a software engineer experienced in full stack web development and data analy
         
 </div>
 
-### Tools
+#### Tools
 <div>
     <img  src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original-wordmark.svg" height="40" width="40" alt="React" title="React"/>
     <img  src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/spring/spring-original-wordmark.svg" height="40" width="40" alt="Spring" title="Spring"/>
@@ -41,6 +40,8 @@ I'm a software engineer experienced in full stack web development and data analy
     <img  src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="Postgresql" title="Postgresql"/>
 
 </div>
+
+---
 
 <!--
 **Aaron-Heath/Aaron-Heath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
