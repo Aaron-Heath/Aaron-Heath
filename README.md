@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://raw.githubusercontent.com/Aaron-Heath/Aaron-Heath/main/img/bearlogo.jpeg" width="100">  
+    <img src="https://raw.githubusercontent.com/Aaron-Heath/Aaron-Heath/main/img/README%20Banner.png">  
 </div>
 
 <div id="badges" align="center">
