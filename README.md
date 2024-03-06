@@ -15,7 +15,9 @@
 
 ---
 ### About Me
-I'm a software engineer experienced in full stack web development and data analysis with an affinity for learning new technology and methods to tackle complex challenges.
+I'm a software engineer experienced in full stack web development and data analysis with an affinity for learning new technology and methods to tackle complex challenges. 
+
+[Click to see my portfolio of work](https://aaronheath.netlify.app/).
 
 #### Languages
 <div>
